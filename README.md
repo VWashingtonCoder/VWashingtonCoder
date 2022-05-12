@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Applied Computer Science**
 
-- 💬 Ask me about **React, JavaScript, HTML5, CSS, Redux**
+- 💬 Ask me about **React, JavaScript, HTML5, CSS**
 
 - 📫 How to reach me **vincentwashington202@gmail.com**
 
