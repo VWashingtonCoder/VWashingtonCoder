@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vincentwashington202@gmail.com**
 
-- ⚡ Fun fact **I'm a devloper with a huge love anime and all things Japan.**
+- ⚡ Fun fact **I'm a developer with a huge love for anime and all things Japan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
